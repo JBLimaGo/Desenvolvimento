@@ -1,0 +1,22 @@
+{
+  "name": "servidorlocal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBLimaGo/Desenvolvimento.git"
+  },
+  "author": "Jefferson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBLimaGo/Desenvolvimento/issues"
+  },
+  "homepage": "https://github.com/JBLimaGo/Desenvolvimento#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
