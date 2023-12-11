@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JBLimaGo/Desenvolvimento/issues"
   },
-  "homepage": "https://github.com/JBLimaGo/Desenvolvimento#readme"
+  "homepage": "https://github.com/JBLimaGo/Desenvolvimento#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
 }
