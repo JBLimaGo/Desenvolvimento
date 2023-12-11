@@ -10,7 +10,7 @@ function App() {
     function upercase(name){
       return name.toUpperCase()
     }
-
+    
   return (
     <div className="App">
 
@@ -26,8 +26,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
 */
-          
-
         >
           <p>{name} </p>
           <p>{newname} </p>
